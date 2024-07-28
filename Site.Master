@@ -4,7 +4,7 @@
 
 <html lang="fr">
 <head runat="server">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title><%: Page.Title %> - Site Web Achats Amendis</title>
@@ -12,17 +12,26 @@
     <asp:PlaceHolder runat="server">
         <%: Scripts.Render("~/bundles/modernizr") %>
     </asp:PlaceHolder>
-    <webopt:bundlereference runat="server" path="~/Content/css" />
-    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <webopt:BundleReference runat="server" Path="~/Content/css" />
+    <link href="Images\Logo.png" rel="shortcut icon" type="image/png" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.2.3/css/bootstrap.min.css" integrity="sha512-6KY5s6UI5J7SVYuZB4S/CZMyPylqyyNZco376NM2Z8Sb8OxEdp02e1jkKk/wZxIEmjQ6DRCEBhni+gpr9c4tvA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
 </head>
+    <style>
+        .top-nav {
+            color:white!important;
+        }
+        li {
+            margin-left:20px;
+        }
+    </style>
 <body>
     <form runat="server">
         <asp:ScriptManager runat="server">
             <Scripts>
                 <%--To learn more about bundling scripts in ScriptManager see https://go.microsoft.com/fwlink/?LinkID=301884 --%>
                 <%--Framework Scripts--%>
-               
+
                 <asp:ScriptReference Name="MsAjaxBundle" />
                 <asp:ScriptReference Name="jquery" />
                 <asp:ScriptReference Name="WebForms.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebForms.js" />
@@ -35,53 +44,57 @@
                 <asp:ScriptReference Name="Focus.js" Assembly="System.Web" Path="~/Scripts/WebForms/Focus.js" />
                 <asp:ScriptReference Name="WebFormsBundle" />
 
-               <%-- <asp:ScriptReference Name="jquery-3.4.1.js" Assembly="System.Web" Path="~/Scripts/jquery-3.4.1.js" />
+                <%-- <asp:ScriptReference Name="jquery-3.4.1.js" Assembly="System.Web" Path="~/Scripts/jquery-3.4.1.js" />
                 <asp:ScriptReference Name="bootstrap.js" Assembly="System.Web" Path="~/Scripts/bootstrap.js" />--%>
 
                 <%--Site Scripts--%>
             </Scripts>
         </asp:ScriptManager>
 
+
+        <%--Nav Bar--%>
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm ">
-            <div class="container">
-                <a class="navbar-brand" runat="server" href="~/"></a>
+            <div class="container-fluid" style="display: flex; justify-content: space-around; background-color:blue; height:10vh; font-size:20px !important; color:white !important">
+                <%--      <a class="navbar-brand" runat="server" href="~/"></a>
                 <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" title="Activer/désactiver la navigation" aria-controls="navbarSupportedContent"
                     aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
-                </button>
-                <img src="/images/LogoAmendis2.png" width="120" height="40">
-                <div class="collapse navbar-collapse d-sm-inline-flex justify-content-between">
+                </button>--%>
+                <div>
+                    <img src="/Images/Logo.png" width="224" height="134">
+                </div>
+                <div class="d-inline-flex">
                     <ul class="navbar-nav flex-grow-1">
-                        <li class="nav-item"><a class="nav-link" runat="server" href="~/">Accueil</a></li>
-                        <li class="nav-item"><a class="nav-link" runat="server" href="~/AoEncours">Avis d'appels d'offres</a></li>
-                        <li class="nav-item"><a class="nav-link" runat="server" href="~/Marches">Marchés attribués</a></li>                        
-                        <li class="nav-item"><a class="nav-link" runat="server" href="~/Reglements">Règlements des marchés</a></li>
-                        <li class="nav-item"><a class="nav-link" runat="server" href="~/Dps">Démarches Progrès social</a></li>
-                        <li class="nav-item"><a class="nav-link" runat="server" href="~/Contact">Contacter nous</a></li>
-                                          
-                             <%--   <li class="nav-item dropdown">
-                                    <a class="nav-link dropdown-toggle" href="#" id="navbarDarkDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">Dropdown
-                                    </a>
-                                    <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="navbarDarkDropdownMenuLink">
-                                        <li><a class="dropdown-item" href="#">Action</a></li>
-                                        <li><a class="dropdown-item" href="#">Another action</a></li>
-                                        <li><a class="dropdown-item" href="#">Something else here</a></li>
-                                    </ul>
-                                </li>  --%>                  
-                     
+                        <li class="nav-item"><a class="nav-link top-nav" runat="server" href="~/">Accueil</a></li>
+                        <li class="nav-item"><a class="nav-link top-nav" runat="server" href="~/AoEncours">Avis d'appels d'offres</a></li>
+                        <li class="nav-item"><a class="nav-link top-nav" runat="server" href="~/Marches">Marchés attribués</a></li>
+
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle top-nav" href="#" id="navbarDropdown" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Relations Fournisseurs
+                            </a>
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                <a class="dropdown-item" runat="server" href="~/Reglements">Règlements des marchés</a>
+                                <a class="dropdown-item" runat="server" href="~/Dps">Démarches Progrès social</a>
+                            </div>
+                        </li>
+                        <li class="nav-item"><a class="nav-link top-nav" runat="server" href="~/Prog-Inves">Programmes d'invetissement</a></li>
+                        <li class="nav-item"><a class="nav-link top-nav" runat="server" href="~/Contact">Contacter nous</a></li>
                     </ul>
+                </div>
+
+                <div>
                     <asp:LoginView runat="server" ViewStateMode="Disabled">
                         <AnonymousTemplate>
                             <ul class="navbar-nav navbar-right">
-                                <li><a runat="server" class="nav-link" href="~/Account/Register">S’inscrire</a></li>
-                                <li><a runat="server" class="nav-link" href="~/Account/Login">Se connecter</a></li>
+                                <li><a runat="server" class="nav-link top-nav" href="~/Account/Register">S’inscrire</a></li>
+                                <li><a runat="server" class="nav-link top-nav" href="~/Account/Login">Se connecter</a></li>
                             </ul>
                         </AnonymousTemplate>
                         <LoggedInTemplate>
                             <ul class="navbar-nav navbar-right">
-                                <li><a runat="server" class="nav-link" href="~/Account/Manage" title="Manage your account">Bonjour, <%: Context.User.Identity.GetUserName()  %> !</a></li>
+                                <li><a runat="server" class="nav-link top-nav" style="color:black!important" href="~/Account/Manage" title="Manage your account">Bonjour, <%: Context.User.Identity.GetUserName()  %> !</a></li>
                                 <li>
-                                    <asp:LoginStatus runat="server" CssClass="nav-link" LogoutAction="Redirect" LogoutText="Log off" LogoutPageUrl="~/" OnLoggingOut="Unnamed_LoggingOut" />
+                                    <asp:LoginStatus runat="server" style="color:black!important" CssClass="nav-link" LogoutAction="Redirect" LogoutText="Log off" LogoutPageUrl="~/" OnLoggingOut="Unnamed_LoggingOut" />
                                 </li>
                             </ul>
                         </LoggedInTemplate>
@@ -89,18 +102,26 @@
                 </div>
             </div>
         </nav>
-        <div class="container body-content">
+
+        <%--Footer--%>
+        <div class="container-fluid body-content">
             <asp:ContentPlaceHolder ID="MainContent" runat="server">
             </asp:ContentPlaceHolder>
-            <hr />
-            <footer style="font-size:small;color:gray; line-height:18px ">
-                <p>&copy; <%: DateTime.Now.Year %> - Directions des Achats et Marchés Amendis <br />
-                Bd. Idriss 1 Immeuble Tanger Office Center 9 ème étage <br />
-                Tél.: 05 39 32 80 28 / 27 - Fax: 05 39 34 04 56</p>
-            </footer>
+<%--            <hr />--%>
+            <footer  style=" color: white; margin: 90vh 0px 0px 0px; justify-content: center; align-items: center; text-align: center; background-color:blue; height:10vh">
+                <p>
+                    &copy; <%: DateTime.Now.Year %> - Directions des Achats et Marchés Amendis
+                    <br />
+                    Bd. Idriss 1 Immeuble Tanger Office Center 9 ème étage
+                    <br />
+                    Tél.: 05 39 32 80 28 / 27 - Fax: 05 39 34 04 56
+                </p>
+            </footer>   
         </div>
     </form>
     <asp:PlaceHolder runat="server">
         <%: Scripts.Render("~/Scripts/bootstrap.js") %>
-    </asp:PlaceHolder></body>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
+    </asp:PlaceHolder>
+</body>
 </html>

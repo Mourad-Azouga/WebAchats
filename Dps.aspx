@@ -3,6 +3,8 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
     <main>
+                <div style="display: flex; justify-content: center; align-items: center;">
+            <div style="align-items: center; justify-content: center; width: 70%">
         <h2>Démarches Progrès social​</h2>
         <br />
         <p>
@@ -22,7 +24,9 @@
 
         <p>
             Amendis organise annuellement au profit de ses fournisseurs et de ses sous-traitants des actions de sensibilisation et de formations sur la prévention des accidents de travail, notamment pendant la semaine Internationale de la Santé et la Sécurité, organisée par le groupe Veolia.
-        </p>
+        </p
+            </div>
+            </div>
     </main>
 
 </asp:Content>
