@@ -15,15 +15,6 @@ namespace WebAchats2
     {
 
         /// <summary>
-        /// ddl_type_demande control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.DropDownList ddl_type_demande;
-
-        /// <summary>
         /// lbl_nom_societe control.
         /// </summary>
         /// <remarks>

@@ -3,7 +3,7 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
     <main>
-        <h2>Marchés attribués​</h2><br />
+        <h2 style="color:black; align-items:center">Marchés attribués​</h2><br />
        
     </main>
 

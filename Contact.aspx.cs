@@ -32,7 +32,7 @@ namespace WebAchats2
                 {
                     comm.Connection = conn;
                     comm.CommandText = cmdString;
-                    comm.Parameters.AddWithValue("@val1", ddl_type_demande.Text);
+                    
                     comm.Parameters.AddWithValue("@val2", tb_nom_societe.Text);
                     comm.Parameters.AddWithValue("@val3", tb_secteur_activite.Text);
                     comm.Parameters.AddWithValue("@val4", tb_nom_prenom.Text);
@@ -58,7 +58,7 @@ namespace WebAchats2
 
             vbody = "Bonjour," + "\r\n";
             vbody += "\r\n";
-            vbody += "Veuillez trouver ci-dessous le détail : " + ddl_type_demande.Text + ":" + "\r\n";
+            
             vbody += "\r\n";
             vbody += "Nom Societé: " + tb_nom_societe.Text + "\r\n";
             vbody += "Date: " + System.DateTime.Now + "\r\n";
@@ -74,7 +74,7 @@ namespace WebAchats2
             //string To = System.Web.Security.Membership.GetUser().Email.ToString().ToLower();
             string To = "youssef.benjelloun@veolia.com";
             string From = "reporting-decisionnel.amendis@veolia.com";
-            string Subject = "Notification Contact Site Web Achats: " + ddl_type_demande.Text + " - " + tb_nom_societe.Text ;
+            string Subject = "Notification Contact Site Web Achats: " +  tb_nom_societe.Text ;
 
             MailMessage completeMessage = new MailMessage(From, To, Subject, vbody);
             //completeMessage.CC.Add("abdelhamid.boudraa@veolia.com");

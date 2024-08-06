@@ -1,42 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\WebAchats\\",
+  "WorkspaceRootPath": "C:\\Users\\Saad El Mir\\Desktop\\APP 2 W\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B32C054C-0F9B-4941-97BE-AC16064B8E99}|WebAchats2.csproj|c:\\users\\user\\desktop\\webachats\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
-      "RelativeMoniker": "D:0:0:{B32C054C-0F9B-4941-97BE-AC16064B8E99}|WebAchats2.csproj|solutionrelative:site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+      "AbsoluteMoniker": "D:0:0:{B32C054C-0F9B-4941-97BE-AC16064B8E99}|WebAchats2.csproj|C:\\Users\\Saad El Mir\\Desktop\\APP 2 W\\marches.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B32C054C-0F9B-4941-97BE-AC16064B8E99}|WebAchats2.csproj|solutionrelative:marches.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B32C054C-0F9B-4941-97BE-AC16064B8E99}|WebAchats2.csproj|C:\\Users\\user\\Desktop\\WebAchats\\dps.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{B32C054C-0F9B-4941-97BE-AC16064B8E99}|WebAchats2.csproj|solutionrelative:dps.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{B32C054C-0F9B-4941-97BE-AC16064B8E99}|WebAchats2.csproj|c:\\users\\saad el mir\\desktop\\app 2 w\\marches.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B32C054C-0F9B-4941-97BE-AC16064B8E99}|WebAchats2.csproj|solutionrelative:marches.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B32C054C-0F9B-4941-97BE-AC16064B8E99}|WebAchats2.csproj|C:\\Users\\user\\Desktop\\WebAchats\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{B32C054C-0F9B-4941-97BE-AC16064B8E99}|WebAchats2.csproj|solutionrelative:contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B32C054C-0F9B-4941-97BE-AC16064B8E99}|WebAchats2.csproj|C:\\Users\\user\\Desktop\\WebAchats\\prog-inves.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{B32C054C-0F9B-4941-97BE-AC16064B8E99}|WebAchats2.csproj|solutionrelative:prog-inves.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B32C054C-0F9B-4941-97BE-AC16064B8E99}|WebAchats2.csproj|C:\\Users\\user\\Desktop\\WebAchats\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{B32C054C-0F9B-4941-97BE-AC16064B8E99}|WebAchats2.csproj|solutionrelative:default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B32C054C-0F9B-4941-97BE-AC16064B8E99}|WebAchats2.csproj|C:\\Users\\user\\Desktop\\WebAchats\\reglements.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{B32C054C-0F9B-4941-97BE-AC16064B8E99}|WebAchats2.csproj|C:\\Users\\Saad El Mir\\Desktop\\APP 2 W\\reglements.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{B32C054C-0F9B-4941-97BE-AC16064B8E99}|WebAchats2.csproj|solutionrelative:reglements.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B32C054C-0F9B-4941-97BE-AC16064B8E99}|WebAchats2.csproj|C:\\Users\\user\\Desktop\\WebAchats\\aoencours.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{B32C054C-0F9B-4941-97BE-AC16064B8E99}|WebAchats2.csproj|solutionrelative:aoencours.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{B32C054C-0F9B-4941-97BE-AC16064B8E99}|WebAchats2.csproj|C:\\Users\\Saad El Mir\\Desktop\\APP 2 W\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B32C054C-0F9B-4941-97BE-AC16064B8E99}|WebAchats2.csproj|solutionrelative:default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B32C054C-0F9B-4941-97BE-AC16064B8E99}|WebAchats2.csproj|C:\\Users\\user\\Desktop\\WebAchats\\scripts\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{B32C054C-0F9B-4941-97BE-AC16064B8E99}|WebAchats2.csproj|c:\\users\\saad el mir\\desktop\\app 2 w\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{B32C054C-0F9B-4941-97BE-AC16064B8E99}|WebAchats2.csproj|solutionrelative:site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B32C054C-0F9B-4941-97BE-AC16064B8E99}|WebAchats2.csproj|C:\\Users\\Saad El Mir\\Desktop\\APP 2 W\\prog-inves.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B32C054C-0F9B-4941-97BE-AC16064B8E99}|WebAchats2.csproj|solutionrelative:prog-inves.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B32C054C-0F9B-4941-97BE-AC16064B8E99}|WebAchats2.csproj|C:\\Users\\Saad El Mir\\Desktop\\APP 2 W\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B32C054C-0F9B-4941-97BE-AC16064B8E99}|WebAchats2.csproj|solutionrelative:contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B32C054C-0F9B-4941-97BE-AC16064B8E99}|WebAchats2.csproj|c:\\users\\saad el mir\\desktop\\app 2 w\\contact.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B32C054C-0F9B-4941-97BE-AC16064B8E99}|WebAchats2.csproj|solutionrelative:contact.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B32C054C-0F9B-4941-97BE-AC16064B8E99}|WebAchats2.csproj|C:\\Users\\Saad El Mir\\Desktop\\APP 2 W\\dps.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B32C054C-0F9B-4941-97BE-AC16064B8E99}|WebAchats2.csproj|solutionrelative:dps.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B32C054C-0F9B-4941-97BE-AC16064B8E99}|WebAchats2.csproj|C:\\Users\\Saad El Mir\\Desktop\\APP 2 W\\scripts\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{B32C054C-0F9B-4941-97BE-AC16064B8E99}|WebAchats2.csproj|solutionrelative:scripts\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B32C054C-0F9B-4941-97BE-AC16064B8E99}|WebAchats2.csproj|C:\\Users\\user\\Desktop\\WebAchats\\marches.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{B32C054C-0F9B-4941-97BE-AC16064B8E99}|WebAchats2.csproj|solutionrelative:marches.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{B32C054C-0F9B-4941-97BE-AC16064B8E99}|WebAchats2.csproj|C:\\Users\\Saad El Mir\\Desktop\\APP 2 W\\aoencours.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B32C054C-0F9B-4941-97BE-AC16064B8E99}|WebAchats2.csproj|solutionrelative:aoencours.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 276,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,11 +82,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
+              "Title": "Contact.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Saad El Mir\\Desktop\\APP 2 W\\Contact.aspx.cs",
+              "RelativeDocumentMoniker": "Contact.aspx.cs",
+              "ToolTip": "C:\\Users\\Saad El Mir\\Desktop\\APP 2 W\\Contact.aspx.cs",
+              "RelativeToolTip": "Contact.aspx.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAEwAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T13:14:50.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Contact.aspx",
+              "DocumentMoniker": "C:\\Users\\Saad El Mir\\Desktop\\APP 2 W\\Contact.aspx",
+              "RelativeDocumentMoniker": "Contact.aspx",
+              "ToolTip": "C:\\Users\\Saad El Mir\\Desktop\\APP 2 W\\Contact.aspx",
+              "RelativeToolTip": "Contact.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-27T15:38:17.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Site.Master",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebAchats\\Site.Master",
+              "DocumentMoniker": "C:\\Users\\Saad El Mir\\Desktop\\APP 2 W\\Site.Master",
               "RelativeDocumentMoniker": "Site.Master",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebAchats\\Site.Master",
+              "ToolTip": "C:\\Users\\Saad El Mir\\Desktop\\APP 2 W\\Site.Master",
               "RelativeToolTip": "Site.Master",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -88,98 +122,106 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Prog-Inves.aspx",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebAchats\\Prog-Inves.aspx",
-              "RelativeDocumentMoniker": "Prog-Inves.aspx",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebAchats\\Prog-Inves.aspx",
-              "RelativeToolTip": "Prog-Inves.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-07-28T13:41:23.316Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "bootstrap.js",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebAchats\\Scripts\\bootstrap.js",
-              "RelativeDocumentMoniker": "Scripts\\bootstrap.js",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebAchats\\Scripts\\bootstrap.js",
-              "RelativeToolTip": "Scripts\\bootstrap.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-07-28T12:16:31.583Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Default.aspx",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebAchats\\Default.aspx",
+              "DocumentMoniker": "C:\\Users\\Saad El Mir\\Desktop\\APP 2 W\\Default.aspx",
               "RelativeDocumentMoniker": "Default.aspx",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebAchats\\Default.aspx",
+              "ToolTip": "C:\\Users\\Saad El Mir\\Desktop\\APP 2 W\\Default.aspx",
               "RelativeToolTip": "Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2024-07-28T11:54:01.004Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Dps.aspx",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebAchats\\Dps.aspx",
-              "RelativeDocumentMoniker": "Dps.aspx",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebAchats\\Dps.aspx",
-              "RelativeToolTip": "Dps.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-07-27T15:38:16.368Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Reglements.aspx",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebAchats\\Reglements.aspx",
-              "RelativeDocumentMoniker": "Reglements.aspx",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebAchats\\Reglements.aspx",
-              "RelativeToolTip": "Reglements.aspx",
+              "Title": "Prog-Inves.aspx",
+              "DocumentMoniker": "C:\\Users\\Saad El Mir\\Desktop\\APP 2 W\\Prog-Inves.aspx",
+              "RelativeDocumentMoniker": "Prog-Inves.aspx",
+              "ToolTip": "C:\\Users\\Saad El Mir\\Desktop\\APP 2 W\\Prog-Inves.aspx",
+              "RelativeToolTip": "Prog-Inves.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-07-27T15:38:15.019Z"
+              "WhenOpened": "2024-07-28T13:41:23.316Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AoEncours.aspx",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebAchats\\AoEncours.aspx",
-              "RelativeDocumentMoniker": "AoEncours.aspx",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebAchats\\AoEncours.aspx",
-              "RelativeToolTip": "AoEncours.aspx",
+              "DocumentIndex": 0,
+              "Title": "Marches.aspx",
+              "DocumentMoniker": "C:\\Users\\Saad El Mir\\Desktop\\APP 2 W\\Marches.aspx",
+              "RelativeDocumentMoniker": "Marches.aspx",
+              "ToolTip": "C:\\Users\\Saad El Mir\\Desktop\\APP 2 W\\Marches.aspx",
+              "RelativeToolTip": "Marches.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-07-27T16:00:17.875Z"
+              "WhenOpened": "2024-07-27T15:50:10.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Marches.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Saad El Mir\\Desktop\\APP 2 W\\Marches.aspx.cs",
+              "RelativeDocumentMoniker": "Marches.aspx.cs",
+              "ToolTip": "C:\\Users\\Saad El Mir\\Desktop\\APP 2 W\\Marches.aspx.cs",
+              "RelativeToolTip": "Marches.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAYwAUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T14:59:40.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "bootstrap.js",
+              "DocumentMoniker": "C:\\Users\\Saad El Mir\\Desktop\\APP 2 W\\Scripts\\bootstrap.js",
+              "RelativeDocumentMoniker": "Scripts\\bootstrap.js",
+              "ToolTip": "C:\\Users\\Saad El Mir\\Desktop\\APP 2 W\\Scripts\\bootstrap.js",
+              "RelativeToolTip": "Scripts\\bootstrap.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-28T12:16:31.583Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Marches.aspx",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebAchats\\Marches.aspx",
-              "RelativeDocumentMoniker": "Marches.aspx",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebAchats\\Marches.aspx",
-              "RelativeToolTip": "Marches.aspx",
+              "Title": "Dps.aspx",
+              "DocumentMoniker": "C:\\Users\\Saad El Mir\\Desktop\\APP 2 W\\Dps.aspx",
+              "RelativeDocumentMoniker": "Dps.aspx",
+              "ToolTip": "C:\\Users\\Saad El Mir\\Desktop\\APP 2 W\\Dps.aspx",
+              "RelativeToolTip": "Dps.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-07-27T15:50:10.407Z"
+              "WhenOpened": "2024-07-27T15:38:16.368Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Contact.aspx",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebAchats\\Contact.aspx",
-              "RelativeDocumentMoniker": "Contact.aspx",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebAchats\\Contact.aspx",
-              "RelativeToolTip": "Contact.aspx",
+              "Title": "Reglements.aspx",
+              "DocumentMoniker": "C:\\Users\\Saad El Mir\\Desktop\\APP 2 W\\Reglements.aspx",
+              "RelativeDocumentMoniker": "Reglements.aspx",
+              "ToolTip": "C:\\Users\\Saad El Mir\\Desktop\\APP 2 W\\Reglements.aspx",
+              "RelativeToolTip": "Reglements.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-07-27T15:38:17.798Z"
+              "WhenOpened": "2024-07-27T15:38:15.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AoEncours.aspx",
+              "DocumentMoniker": "C:\\Users\\Saad El Mir\\Desktop\\APP 2 W\\AoEncours.aspx",
+              "RelativeDocumentMoniker": "AoEncours.aspx",
+              "ToolTip": "C:\\Users\\Saad El Mir\\Desktop\\APP 2 W\\AoEncours.aspx",
+              "RelativeToolTip": "AoEncours.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-27T16:00:17.875Z",
+              "EditorCaption": ""
             }
           ]
         }

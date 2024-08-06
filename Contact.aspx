@@ -8,11 +8,20 @@
                 <br />
 
                 <%-- <asp:Label ID="lbl_type_demande" runat="server" Text="Type de demande *"></asp:Label><br />       --%>
-                <asp:DropDownList ID="ddl_type_demande" class="dropdown-item" Width="200px" runat="server">
-                    <asp:ListItem>Demande d&#39;information</asp:ListItem>
-                    <asp:ListItem>R&#233;clamation</asp:ListItem>
-                    <asp:ListItem Value="R&#233;clamation anonyme">R&#233;clamation anonyme</asp:ListItem>
-                </asp:DropDownList><br />
+                <div class="form-group">
+    
+    
+    <div class="radio-group">
+        <label for="demande">Type de demande :</label>
+<select id="demande" name="demande">
+    <option value="demande d'info">Demande d'info</option>
+    <option value="reclamation">Réclamation</option>
+    <!--            <option value="reclamation-ano">Réclamation anonyme</option>
+    -->
+</select><br>
+
+    </div>
+</div>
                 <br />
 
                 <asp:Label ID="lbl_nom_societe" runat="server" Text="Nom de la société *"></asp:Label><br />

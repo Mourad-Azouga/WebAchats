@@ -5,6 +5,14 @@
     <main>
                 <div style="display: flex; justify-content: center; align-items: center;">
             <div style="align-items: center; justify-content: center; width: 70%">
+                <style>
+                    p {
+
+                       margin-top: 20px;
+                       font-family: Arial;
+                       font-size: 20px;
+  }
+                </style>
         <h2>Démarches Progrès social​</h2>
         <br />
         <p>
